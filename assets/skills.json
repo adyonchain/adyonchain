@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "PLACEHOLDER NUMBERS - these are inferred from the languages in your public repos, not from you. Edit them. Values are 0-100 and purely self-rated; 5-8 axes reads best.",
+  "axes": [
+    { "label": "Blockchain",          "value": 88 },
+    { "label": "Data Analysis",       "value": 80 },
+    { "label": "Python",              "value": 82 },
+    { "label": "Machine Learning",    "value": 74 },
+    { "label": "SQL & Databases",     "value": 70 },
+    { "label": "Web/App Development", "value": 65 },
+    { "label": "Data Engineering",    "value": 72 }
+  ]
+}
