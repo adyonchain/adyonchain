@@ -10,7 +10,7 @@
 
 <!-- NAME - animated typing -->
 <a href="https://github.com/adyonchain">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=f52380&center=true&vCenter=true&width=560&lines=Adriana+⋆+ML+%26+Data+Analysis+⋆;Always+learning,+always+building+಄;01001100+01100101+01110100+00100111+01110011+00100000+01100011+01101111+01100100+01100101+00100001" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=f52380&center=true&vCenter=true&width=560&lines=Adriana+%E2%8B%86+ML+%26+Data+Analysis+%E2%8B%86;Always+learning,+always+building+%E0%B0%84;01001100+01100101+01110100+00100111+01110011+00100000+01100011+01101111+01100100+01100101+00100001" alt="typing banner">
 </a>
 
 <br>
